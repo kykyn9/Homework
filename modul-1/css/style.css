@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #eee;
+    font-size: 18px;
+}
+.cont {
+    width: 970px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.row {
+    margin: 0 15px;
+}
+.cont_about {
+    background: #fff;
+    margin: 5px auto 50px;
+    padding: 30px 0 50px;
+    width: 510px;
+    min-height: 300px;
+    box-shadow: 0 0 2px 1px rgba(213, 213, 213, 1);
+}
+.page {
+    margin: 0 50px;
+}
+.about,
+.content,
+.contact {
+    border-bottom: 1px solid #778899;
+}
+
+.page {
+    margin: 0 50px;
+}
+
+.page p {
+    margin-left: 10px;
+}
+
+.page .about h2 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.page .about .photo {
+    background: url("../img/123.jpg") no-repeat;
+    margin: 0 auto;
+    width: 145px;
+    height: 140px;
+}
+
+.page .content li {
+    line-height: 24px;
+}
+
+.box1 {
+    margin-bottom: 0;
+}
+
+.box {
+    margin-top: 10px;
+}
