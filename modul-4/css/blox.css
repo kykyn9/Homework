@@ -1,0 +1,27 @@
+﻿.fon {
+    background: url(../img/blox.png) repeat-y; 
+    overflow: hidden; 
+}
+
+.leftColumn {
+    width: 210px;
+    float: left;
+    overflow: hidden;
+    padding-bottom:20000px; /*заменить на одно свойство*/
+    padding-left: 10px;
+    padding-top: 20px;
+    margin-bottom:-20000px;
+}
+
+
+.rightColumn {
+    width: 210px;
+    float: right;
+    padding-top: 20px;
+    padding-bottom:20000px;
+    margin-bottom:-20000px;
+}
+
+.inform {
+    margin:10px;
+}

@@ -1,0 +1,25 @@
+body {
+    font: 14px 'Verdana';
+    margin: 0;
+    padding: 0;
+    background: url(../img/fone.jpg) repeat-x;
+    background-position:0 -40px;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto 35px;
+   /* min-height: 100%;*/
+    position: relative;
+    background: #fff;
+    box-shadow: 0 5px 5px rgba(0,0,0,.3);
+ 
+}
+
+.copyright {
+    text-align: center;
+    color:white;
+    width: 100%;
+
+
+}

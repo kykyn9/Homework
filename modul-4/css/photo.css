@@ -1,0 +1,14 @@
+.photo {
+    width: 1000px; /* ширина трех блоков */
+    height: 240px;
+    background: url(../img/photo.jpg)no-repeat;
+   margin-top: 33px;
+}
+.logo {
+    width: 100% ;
+    height:140px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    background: url(../img/logo.jpg)no-repeat;
+}

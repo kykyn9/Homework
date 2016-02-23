@@ -1,0 +1,44 @@
+
+.contact{
+    display:block;
+    font-size: 12px;
+    color:#009999;
+    float:right;
+    margin-right: 33px;
+}
+.contact p {
+    line-height: 5px;
+}
+
+.flags {
+    float: right;
+}
+
+.country {
+    display: inline-block;
+    width: 80px;
+    margin-top: -60px;
+}
+
+.country img {
+    width: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.country a {
+    font-size: 9px;
+    display: block;
+    text-align: center;
+    margin-top: 5px;
+}
+
+/*.header {
+    padding-top: 20px;
+}*/
+
+.text {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
